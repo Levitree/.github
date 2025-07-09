@@ -6,5 +6,5 @@ _If you have questions, direct them to the domain expert below then to Cole if s
  - Cole Johnson (cole@levitree.com): CTO
  - Aiden Vigue (aiden@levitree.com): Circuit, Firmware, Low-Level APIs (Hardware Integrations)
  - Jiajie Qian (jay@levitree.com): Terraforming AI
- - Nedim Faiku (nedim@levitree.com) & Denis Krasniqi (denis@levitree.com): Web Dev
+ - Ahmet (Ahmet@levitree.com): Web Dev
  - Pranav Vyas (pranav@levitree.com): Internal Tooling
